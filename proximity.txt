@@ -1,1 +1,2 @@
  distance = 300m
+distance 2 = 500m
