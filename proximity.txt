@@ -1,0 +1,1 @@
+sensor distance = 100000m
