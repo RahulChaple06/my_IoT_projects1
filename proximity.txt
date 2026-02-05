@@ -1,2 +1,4 @@
  distance = 300m
 distance 2 = 500m
+
+password = 12345678
